@@ -1,0 +1,1 @@
+{"version":3,"file":"book.schema.js","sourceRoot":"","sources":["../../../src/Mongo/Schemas/book.schema.ts"],"names":[],"mappings":";;;AAAA,uCAAkC;AAClC,mDAA+C;AAGlC,QAAA,UAAU,GAAG,IAAI,iBAAM,CAAC;IACjC,IAAI,EAAG,MAAM;IACb,MAAM,EAAG,CAAC,4BAAY,CAAC;IACvB,QAAQ,EAAE,MAAM;IAChB,WAAW,EAAE,MAAM;IACnB,SAAS,EAAE,MAAM;IACjB,KAAK,EAAE,MAAM;CAChB,CAAC,CAAA"}
